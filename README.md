@@ -10,6 +10,7 @@
 - 📍 &nbsp; [FiveM Model Blacklist](https://github.com/ImAidanJ/FiveM_ModelBlacklist)
 - 📍 &nbsp; [FiveM Coord Saver](https://github.com/ImAidanJ/FiveM_CoordSaver)
 - 📍 &nbsp; [FiveM No Peds](https://github.com/ImAidanJ/AJ_NoPeds)
+- 📍 &nbsp; [Simple Quote API](https://github.com/ImAidanJ/StriveAPI)
 
 
 ### Languages and Tools:
