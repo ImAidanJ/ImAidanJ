@@ -5,8 +5,6 @@
 [![Discord Badge](https://img.shields.io/badge/-Strive-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/ehp4yJUqgj)
 [![Discord Badge](https://img.shields.io/badge/-CSRP-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/kXJkY322bV)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S310DONO)
-
 ### Some Highlights:
 
 - 📍 &nbsp; [FiveM Model Blacklist](https://github.com/ImAidanJ/FiveM_ModelBlacklist)
@@ -14,6 +12,7 @@
 - 📍 &nbsp; [FiveM No Peds](https://github.com/ImAidanJ/AJ_NoPeds)
 - 📍 &nbsp; [Simple Quote API](https://github.com/ImAidanJ/StriveAPI)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S310DONO)
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
