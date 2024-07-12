@@ -5,6 +5,8 @@
 [![Discord Badge](https://img.shields.io/badge/-Strive-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/ehp4yJUqgj)
 [![Discord Badge](https://img.shields.io/badge/-CSRP-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/kXJkY322bV)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S310DONO)
+
 ### Some Highlights:
 
 - 📍 &nbsp; [FiveM Model Blacklist](https://github.com/ImAidanJ/FiveM_ModelBlacklist)
